@@ -364,7 +364,7 @@ function getHead() {
         "Accept": "application/json",
         "Accept-Language": "en-US",
         "Authorization": "Bearer " + token,
-        "Client-Id": "rzf6hv8vu6240limdjg7kbn9adu7ek"
+        "Client-Id": config.tClient
     }
 }
 
@@ -393,5 +393,6 @@ function getClipsMASTER(mode){
      });
   
 }
-
+console.log(config.tClient);
 //initListStreamer();
+
