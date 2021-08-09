@@ -25,5 +25,5 @@ Run as you want with :
   node ./src/main.js $index
 ``` 
 
-# Code extern :
+# Code external :
 https://github.com/pierreminiggio/tiktok-poster
