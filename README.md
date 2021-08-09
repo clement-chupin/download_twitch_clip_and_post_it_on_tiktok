@@ -2,17 +2,17 @@
 Simply and random download clips of twitch by user or game and post them on tiktok with caption and hashtags 
 
 # Install :
-
-1 : Modules :
+Install modules with :
+### Modules :
 ```bash
   npm install
 ``` 
   
-2 : Twitch api keys and tiktok account login 
-config the config.js
+### Twitch api keys and tiktok account login :
+Config the config.js
 
-3 : Run
-run as you want with :
+### Run :
+Run as you want with :
 ```bash
   npm start
   or
