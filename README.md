@@ -3,6 +3,8 @@ Simply and random download clips of twitch by user or game and post them on tikt
 
 # Installation :
 
-npm install
-config the config.js
-run as you want with npm start or runBot.sh or node ./src/main.js $index
+.. code::
+
+  npm install
+  config the config.js
+  run as you want with npm start or runBot.sh or node ./src/main.js $index
